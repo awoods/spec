@@ -48,7 +48,7 @@ Install the Gitbook plugins:
 
 Start a local server:
 
-`$> gitbook serve`
+`$> gitbook serve . dist`
 
 The Gitbook should be available at `http://localhost:4000`. Changes to the Gitbook will automatically cause your browser
 to reload the page, showing the latest edits.
